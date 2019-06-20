@@ -11,13 +11,19 @@
 > The Terms of Service apply whether you are a user that registers an account with the Twitch Services or an unregistered user. You agree that by clicking "Sign Up" or otherwise registering, downloading, accessing or using the Twitch Services, you are entering into a legally binding agreement between you and Twitch regarding your use of the Twitch Services. You acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these Terms of Service, do not access or otherwise use any of the Twitch Services.
 >
 > When using or opening an account with Twitch on behalf of a company, entity, or organization (collectively, "**Subscribing Organization**"), you represent and warrant that you: (i) are an authorized representative of that Subscribing Organization with the authority to bind that organization to these Terms of Service and grant the licenses set forth herein; and (ii) agree to these Terms of Service on behalf of such Subscribing Organization.
->
+
+Explicit differentiation of individual and entity counterparties.
+
 > #### 2. Use of Twitch by Minors and Blocked Persons
 >
 > The Twitch Services are not available to persons under the age of 13. If you are between the ages of 13 and 18 (or between 13 and the age of legal majority in your jurisdiction of residence), you may only use the Twitch Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Service.
->
+
+Use "not available" to constrain counterparties.
+
 > The Twitch Services are also not available to any users previously removed from the Twitch Services by Twitch. Finally, the Twitch Services are not available to any persons barred from receiving them under the laws of the United States (such as its export and re-export restrictions and regulations) or applicable laws in any other jurisdiction.
->
+
+Export Regulations
+
 > BY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESENT THAT YOU ARE AT LEAST 13 YEARS OF AGE, THAT YOUR PARENT OR LEGAL GUARDIAN AGREES TO BE BOUND BY THESE TERMS OF SERVICE IF YOU ARE BETWEEN 13 AND THE AGE OF LEGAL MAJORITY IN YOUR JURISDICTION OF RESIDENCE, AND THAT YOU HAVE NOT BEEN PREVIOUSLY REMOVED FROM OR PROHIBITED FROM RECEIVING THE TWITCH SERVICES.
 >
 > #### 3. Privacy Policy
@@ -33,7 +39,9 @@
 > You are solely responsible for maintaining the confidentiality of your account and password, for restricting access to your computer, and for all activities that occur under your account or password. Please make sure the information you provide to Twitch upon registration and at all other times is true, accurate, current, and complete to the best of your knowledge.
 >
 > Unless expressly permitted in writing by Twitch, you may not sell, rent, lease, share or provide access to your account to anyone else, including without limitation charging anyone for access to administrative rights on your account. Twitch reserves all available legal rights and remedies to prevent unauthorized use of the Twitch Services, including, but not limited to, technological barriers, IP mapping, and, in serious cases, directly contacting your Internet Service Provider (ISP) regarding such unauthorized use.
->
+
+Prohibition on trade in accounts.
+
 > ##### b. Third Party Accounts
 >
 > Twitch may permit you to register for and log on to the Twitch Services via certain third party services. The third party's collection, use and disclosure of your information will be subject to that third party service's privacy policy. Further information about how Twitch collects, uses and discloses your personal information when you link your Twitch account and with your account on any third party service can be found in our Privacy Policy.
@@ -51,7 +59,9 @@
 > Twitch may amend any of the terms of these Terms of Service by posting the terms. Your continued use of the Twitch Services after the effective date of the revised Terms of Service constitutes your acceptance of the terms.
 >
 > If you are a consumer resident in the European Union and you disagree with any proposed modifications that Twitch has made to the Terms of Service, we encourage you to contact us as soon as possible after you start using the Twitch Services at legal@twitch.tv since otherwise they will be binding on you a reasonable time period after you received notice of the proposed modified Terms of Service (usually 30 days unless there are exceptional circumstances).
->
+
+Not clear why they don't provide this explicit "out" for terms changes to US users, as well.
+
 > #### 7. License
 >
 > The Twitch Services are owned and operated by Twitch. Unless otherwise indicated, all content, information, and other materials on the Twitch Services (excluding User Content, set out in Section 8 below), including, without limitation, Twitch's trademarks and logos, the visual interfaces, graphics, design, compilation, information, software, computer code (including source code or object code), services, text, pictures, information, data, sound files, other files and the selection and arrangement thereof (collectively, the "**Materials**") are protected by relevant intellectual property and proprietary rights and laws. All Materials contained on the Twitch Services are the property of Twitch or its subsidiaries or affiliated companies and/or third-party licensors. Unless otherwise expressly stated in writing by Twitch, by agreeing to these Terms of Service you are granted a limited, non-sublicensable license (i.e. a personal and limited right) to access and use the Twitch Services for your personal use or internal business use only.
@@ -64,16 +74,32 @@
 >
 > ##### a. License to Twitch
 >
-> (i) Unless otherwise agreed to in a written agreement between you and Twitch that was signed by an authorized representative of Twitch, if you submit, transmit, display, perform, post or store User Content using the Twitch Services, you grant Twitch and its sublicensees, to the furthest extent and for the maximum duration permitted by applicable law (including in perpetuity if permitted under applicable law), an unrestricted, worldwide, irrevocable, fully sub-licenseable, nonexclusive, and royalty-free right to (a) use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content (including without limitation for promoting and redistributing part or all of the Twitch Services (and derivative works thereof)) in any form, format, media or media channels now known or later developed or discovered; and (b) use the name, identity, likeness and voice (or other biographical information) that you submit in connection with such User Content. Should such User Content contain the name, identity, likeness and voice (or other biographical information) of third parties, you represent and warrant that you have obtained the appropriate consents and/or licenses for your use of such features and that Twitch and its sub-licensees are allowed to use them to the extent indicated in these Terms of Service.
->
+> (i) Unless otherwise agreed to in a written agreement between you and Twitch that was signed by an authorized representative of Twitch, if you submit, transmit, display, perform, post or store User Content using the Twitch Services, you grant Twitch and its sublicensees, to the furthest extent and for the maximum duration permitted by applicable law (including in perpetuity if permitted under applicable law), an unrestricted, worldwide, irrevocable, fully sub-licenseable, nonexclusive, and royalty-free right to (a) use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content (including without limitation for promoting and redistributing part or all of the Twitch Services (and derivative works thereof)) in any form, format, media or media channels now known or later developed or discovered; and
+
+Very broad user content license.  Not use-limited, to provision of the service or otherwise.
+
+> (b) use the name, identity, likeness and voice (or other biographical information) that you submit in connection with such User Content.
+
+Broad right of publicity license.
+
+> Should such User Content contain the name, identity, likeness and voice (or other biographical information) of third parties, you represent and warrant that you have obtained the appropriate consents and/or licenses for your use of such features and that Twitch and its sub-licensees are allowed to use them to the extent indicated in these Terms of Service.
+
+Warranty for third party rights of publicity.
+
 > (ii) With respect to User Content known as "add-ons", "maps", "mods", or other types of projects submitted through CurseForge.com or related sites ("**Submitted Projects**"), the rights granted by you hereunder terminate once you remove or delete such Submitted Projects from the Twitch Services. You also acknowledge that Twitch may retain, but not display, distribute, or perform, server copies of Submitted Projects that have been removed or deleted.
->
+
+TODO:  Look into how these work.
+
 > (iii) With respect to streaming live and pre-recorded audio-visual works, the rights granted by you hereunder terminate once you delete such User Content from the Twitch Services, or generally by closing your account, except (a) to the extent you shared it with others as part of the Twitch Services and others copied or stored portions of the User Content (e.g., made a Clip); (b) Twitch used it for promotional purposes; and (c) for the reasonable time it takes to remove from backup and other systems.
->
+
+Survival of license.  Very broad, especially (a).
+
 > ##### b. User Content Representations and Warranties
 >
 > You are solely responsible for your User Content and the consequences of posting or publishing it. You represent, and warrant that: (1) you are the creator and owner of the User Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) your User Content does not and will not (a) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (b) defame any other person; (3) your User Content does not contain any viruses, adware, spyware, worms, or other harmful or malicious code; and (4) unless you have received prior written authorization, your User Content specifically does not contain any pre-release or non-public beta software or game content or any confidential information of Twitch or third parties. Twitch reserves all rights and remedies against any users who breach these representations and warranties.
->
+
+IP Warranty.
+
 > ##### c. Content is Uploaded at Your Own Risk
 >
 > Twitch uses reasonable security measures in order to attempt to protect User Content against unauthorized copying and distribution. However, Twitch does not guarantee that any unauthorized copying, use or distribution of User Content by third parties will not take place. To the furthest extent permitted by applicable law, you hereby agree that Twitch shall not be liable for any unauthorized copying, use or distribution of User Content by third parties and release and forever waive any claims you may have against Twitch for any such unauthorized copying or usage of the User Content, under any theory. THE SECURITY MEASURES TO PROTECT USER CONTENT USED BY TWITCH HEREIN ARE PROVIDED AND USED "AS-IS" AND WITH NO WARRANTIES, GUARANTEES, CONDITIONS, ASSURANCES OR OTHER TERMS THAT SUCH SECURITY MEASURES WILL WITHSTAND ATTEMPTS TO EVADE SECURITY MECHANISMS OR THAT THERE WILL BE NO CRACKS, DISABLEMENTS OR OTHER CIRCUMVENTION OF SUCH SECURITY MEASURES.
