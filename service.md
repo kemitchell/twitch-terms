@@ -4,7 +4,7 @@
 >
 > #### 1. Introduction; Your Agreement to these Terms of Service.
 >
-> PLEASE READ THESE TERMS OF SERVICE CAREFULLY. THIS IS A BINDING CONTRACT. Welcome to the services operated by Twitch Interactive, Inc. (with its affiliates, "**Twitch**") consisting of the website available at http://www.twitch.tv, and its network of websites, software applications, or any other products or services offered by Twitch (the " **Twitch Services** "). Other services offered by Twitch may be subject to separate terms.
+> PLEASE READ THESE TERMS OF SERVICE CAREFULLY. THIS IS A BINDING CONTRACT. Welcome to the services operated by Twitch Interactive, Inc. (with its affiliates, "**Twitch**") consisting of the website available at http://www.twitch.tv, and its network of websites, software applications, or any other products or services offered by Twitch (the "**Twitch Services**"). Other services offered by Twitch may be subject to separate terms.
 >
 > When using the Twitch Services, you will be subject to Twitch's Privacy Policy, Twitch's Community Guidelines, and you be subject to additional guidelines or rules that are posted on the Twitch Services or made available to you, or applicable to specific services and features that are disclosed to you in connection with such services. Twitch may also offer certain paid services, which are subject to the [Twitch Terms of Sale](https://www.twitch.tv/p/legal/terms-of-sale) as well as any additional terms or conditions that are disclosed to you in connection with such services. All such terms and guidelines (the "**Guidelines**") are incorporated into these Terms of Service by reference.
 >
